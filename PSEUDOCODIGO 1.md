@@ -1,4 +1,4 @@
-***INICIO DEL JUEGO***
+aQW<***INICIO DEL JUEGO***
 
 1.  **Inicialización de datos:**
     * Crear una LISTA `lista_palabras_pc` de DICCIONARIOS:
@@ -23,7 +23,7 @@
                 |     |
                 O     |
                       |
-                      |
+                      |    
                       |
               =========""",
               # ... (rest of the dibujos)
