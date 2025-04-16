@@ -21,9 +21,7 @@ Este proyecto es un juego del Ahorcado en Python. Puedes jugar solo o con otra p
 * El Jugador 1 escribe una palabra secreta y una pista para el Jugador 2.
 * El Jugador 2 intenta adivinar la palabra.
 * Luego, el Jugador 2 escribe una palabra y una pista para el Jugador 1.
-  
-* **Se lleva la cuenta de los puntos según los fallos al adivinar.**
-  
+* Se lleva la cuenta de los puntos según los fallos al adivinar.
 * Gana quien adivine más palabras. Si hay empate en palabras adivinadas, gana quien tenga menos puntos (menos fallos en total).
 * También se puede pedir pista escribiendo `pista`.
 
