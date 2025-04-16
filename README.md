@@ -21,7 +21,9 @@ Este proyecto es un juego del Ahorcado en Python. Puedes jugar solo o con otra p
 * El Jugador 1 escribe una palabra secreta y una pista para el Jugador 2.
 * El Jugador 2 intenta adivinar la palabra.
 * Luego, el Jugador 2 escribe una palabra y una pista para el Jugador 1.
+  
 * **Se lleva la cuenta de los puntos según los fallos al adivinar.**
+  
 * Gana quien adivine más palabras. Si hay empate en palabras adivinadas, gana quien tenga menos puntos (menos fallos en total).
 * También se puede pedir pista escribiendo `pista`.
 
@@ -31,7 +33,9 @@ Este proyecto es un juego del Ahorcado en Python. Puedes jugar solo o con otra p
     * `dic_random_words`: Palabras para adivinar con sus pistas.
     * `dicc_motivation`: Mensajes que aparecen al fallar.
     * `ahorcado_pics`: Dibujos del ahorcado según las vidas que quedan.
+      
 * **Funciones:**
+  
     * `basic_game()`: La función principal del juego. Calcula puntos por fallos.
     * `min_letters_word()`: Comprueba que la palabra tenga al menos dos letras.
     * `min_letters_hint()`: Comprueba que la pista tenga al menos dos letras.
