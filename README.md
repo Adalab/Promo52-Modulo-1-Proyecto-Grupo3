@@ -43,4 +43,8 @@ Este proyecto es un juego del Ahorcado en Python. Puedes jugar sola o con otra p
 * Se podrían añadir más palabras.
 * Se podría mostrar la puntuación total al final de la partida de una jugadora.
 
+## Enlace a la presentación
+
+https://www.canva.com/design/DAGklszunRw/CIN0aj8uI_aU-Tk3WOB29g/edit?utm_content=DA[…]m_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ¡Gracias por jugar!
